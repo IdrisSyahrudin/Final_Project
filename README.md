@@ -50,11 +50,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cipaapps"
+    namespace = "com.UAS"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cipaapps"
+        applicationId = "com.UAS"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
 
 => `FragmentActivity.java`
 ```
-package com.cipaapps;
+package com.UAS;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -305,7 +305,7 @@ public class FragmentActivity extends AppCompatActivity {
 
 - `ActionFragment.java` :
 ```
-package com.cipaapps;
+package com.UAS;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -390,7 +390,7 @@ public class ActionFragment extends Fragment {
 ```
 - `ComedyFragment.java` :
 ```
-package com.cipaapps;
+package com.UAS;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -476,7 +476,7 @@ public class ComedyFragment extends Fragment {
 
 - `RomanceFragment.java` :
 ```
-package com.cipaapps;
+package com.UAS;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -564,7 +564,7 @@ public class RomanceFragment extends Fragment {
 
 => Lalu buat java class dengan nama `ViewAdapter.java`, yang berisi code :
 ```
-package com.cipaapps;
+package com.UAS;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -600,7 +600,7 @@ public class ViewAdapter extends FragmentStateAdapter {
 
 => Setelah itu membuat java class untuk memutar video dengan nama `VideoPlayerActivity.java`, yang berisi code :
 ```
-package com.cipaapps;
+package com.UAS;
 
 import android.content.pm.ActivityInfo;
 import android.net.Uri;
