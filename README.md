@@ -1774,7 +1774,7 @@ Set in 1999 and 2019, it takes the audience on Bo-ra's emotional journey full of
 > **Hasil Program Tugas 3 :**
 
 ![Picsart_24-01-12_16-49-12-992](https://github.com/IdrisSyahrudin/Final_Project/assets/129921422/61039b18-4f9d-47e5-9198-f39505de492a)
-![Picsart_24-01-12_16-49-12-992](https://github.com/IdrisSyahrudin/Final_Project/assets/129921422/cbfb1221-fefc-4cfb-bdc2-9ca1870b0570)
+![Picsart_24-01-12_16-53-59-304](https://github.com/IdrisSyahrudin/Final_Project/assets/129921422/71c61285-fe8a-444e-87b5-ca0b05716ed8)
 
 
 ## Demo Tugas 3
