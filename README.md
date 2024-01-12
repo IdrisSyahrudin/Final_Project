@@ -787,7 +787,7 @@ public class VideoPlayerActivity extends AppCompatActivity {
 => `strings.xml` (tambahkan code strings.xml dibawah ini dengan code strings.xml pada project sebelumnya yaitu tugas 2) :
 ```
 <resources>
- <string name="app_name">SerendipityApps</string>
+ <string name="app_name">UAS</string>
     <!-- TODO: Remove or change this placeholder text -->
 <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
@@ -799,7 +799,7 @@ public class VideoPlayerActivity extends AppCompatActivity {
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="android:windowBackground">@drawable/splashscreenapp</item>
+        <item name="android:windowBackground">@drawable/splash</item>
         <item name="android:statusBarColor">?attr/colorOnPrimary</item>
     </style>
 
