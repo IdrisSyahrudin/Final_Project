@@ -1247,7 +1247,7 @@ public class VideoPlayerActivity extends AppCompatActivity {
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:fontFamily="monospace"
-            android:text="© 2024 Syifa Aurellia"
+            android:text="© 2024 Idris Syahrudin"
             android:textColor="@color/black"
             android:textSize="15sp"
             android:textStyle="bold" />
