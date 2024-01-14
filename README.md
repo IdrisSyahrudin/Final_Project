@@ -22,7 +22,6 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 - **[Tugas 3](#tugas-3)**
 
-![ss](https://github.com/IdrisSyahrudin/Final_Project/assets/129921422/ae808c19-9f5f-45a2-b19b-6edd2df694d1)
 
 
 - **[Penjelasan & Hasil Program Tugas 3](#penjelasan--hasil-program-tugas-3)**
@@ -33,7 +32,8 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 
 ## Tugas 3
-![tugas]
+![ss](https://github.com/IdrisSyahrudin/Final_Project/assets/129921422/3d0cbe78-76f1-405f-948d-78ca1c4eb884)
+
 
 
 > **Pada tugas 3 saya juga akan menambahkan video trailer di setiap film**
